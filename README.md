@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Viewer,<br>    🔭 I'm currently a front-end Developer.<br>    🌱 I'm currently learning solidity to start my web 3.0 journey.<br>    📈 I'm also grinding DSA to improve my problem-solving skills.<br>    👻 I love Horror stuff(Be it a movie, novel or anything).
+Hello Viewer,<br>    🔭 I'm currently a FullStack-end Developer.<br>    🌱 I'm currently learning solidity to start my web 3.0 journey.<br>    📈 I'm also grinding DSA to improve my problem-solving skills.<br>  
 
 
 ## 🌐 Socials:
