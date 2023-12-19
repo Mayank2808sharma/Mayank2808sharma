@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mayanksharma2808/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://media2.giphy.com/media/XQq8ktMUzITjGZPfyk/200.gif?cid=6c09b9528vtv41gdbpitf9e5yj86zdl8watr8gjy24rzvb0t&ep=v1_gifs_search&rid=200.gif&ct=g" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/mayanksharmaa03" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
